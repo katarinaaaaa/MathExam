@@ -1,0 +1,8 @@
+   student      score   
+    Sonya         6
+    Vanya         8
+    Petya         0
+    Anton         8
+    Dasha         0
+    Kolya         7
+    Fedya         3
