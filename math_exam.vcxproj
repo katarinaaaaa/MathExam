@@ -141,9 +141,17 @@
   <ItemGroup>
     <ClCompile Include="math_exam.cpp" />
     <ClCompile Include="quadratic_equation.cpp" />
+    <ClCompile Include="eq_solution.cpp" />
+    <ClCompile Include="score_table.cpp" />
+    <ClCompile Include="student.cpp" />
+    <ClCompile Include="teacher.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="quadratic_equation.h" />
+    <ClInclude Include="eq_solution.hpp" />
+    <ClInclude Include="quadratic_equation.hpp" />
+    <ClInclude Include="score_table.hpp" />
+    <ClInclude Include="student.hpp" />
+    <ClInclude Include="teacher.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
